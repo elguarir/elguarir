@@ -72,6 +72,12 @@ These days I build **AI agents that run in production**: tool calling, RAG, and 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=elguarir&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=38bdf8&text_color=c9d1d9" alt="Top languages" />
 <img height="170" src="https://streak-stats.demolab.com?user=elguarir&hide_border=true&background=0d1117&ring=38bdf8&fire=38bdf8&currStreakLabel=38bdf8&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=8b949e" alt="GitHub streak" />
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/elguarir/elguarir/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/elguarir/elguarir/output/github-snake.svg" />
+  <img alt="Snake eating my contribution graph" src="https://raw.githubusercontent.com/elguarir/elguarir/output/github-snake-dark.svg" width="100%" />
+</picture>
+
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:0f172a&height=120&section=footer" width="100%" alt="" />
